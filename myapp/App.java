@@ -15,7 +15,7 @@ public class App {
     public void play() {
 
         System.out.println("Hi!");
-        System.out.println("Enter something: ");
+        System.out.println("Enter1 something: ");
         String wagerDate = scanner.next();
         System.out.println(wagerDate);
     }
